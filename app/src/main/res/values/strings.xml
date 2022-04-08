@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login</string>
+
+    <string name="don_t_have_an_account_create_your_account">don\'t have an account? <font color="#FF1493">Create your account</font></string>
+    <string name="login">LOGIN</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an Account? <font color="#FF1493">Login</font></string>
+</resources>
